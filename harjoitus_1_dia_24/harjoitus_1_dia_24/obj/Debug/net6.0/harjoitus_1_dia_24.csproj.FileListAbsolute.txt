@@ -1,0 +1,15 @@
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\bin\Debug\net6.0\harjoitus_1_dia_24.exe
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\bin\Debug\net6.0\harjoitus_1_dia_24.deps.json
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\bin\Debug\net6.0\harjoitus_1_dia_24.runtimeconfig.json
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\bin\Debug\net6.0\harjoitus_1_dia_24.dll
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\bin\Debug\net6.0\harjoitus_1_dia_24.pdb
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\harjoitus_1_dia_24.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\harjoitus_1_dia_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\harjoitus_1_dia_24.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\harjoitus_1_dia_24.AssemblyInfo.cs
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\harjoitus_1_dia_24.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\harjoitus_1_dia_24.dll
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\refint\harjoitus_1_dia_24.dll
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\harjoitus_1_dia_24.pdb
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\harjoitus_1_dia_24.genruntimeconfig.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_1_dia_24\harjoitus_1_dia_24\obj\Debug\net6.0\ref\harjoitus_1_dia_24.dll
