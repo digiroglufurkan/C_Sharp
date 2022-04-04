@@ -1,0 +1,17 @@
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.SalasanaForm.resources
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.AssemblyInfo.cs
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\bin\Debug\net6.0-windows\Harjoitus_6.exe
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\bin\Debug\net6.0-windows\Harjoitus_6.deps.json
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\bin\Debug\net6.0-windows\Harjoitus_6.runtimeconfig.json
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\bin\Debug\net6.0-windows\Harjoitus_6.dll
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\bin\Debug\net6.0-windows\Harjoitus_6.pdb
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.dll
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\refint\Harjoitus_6.dll
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.pdb
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\Harjoitus_6.genruntimeconfig.cache
+C:\Users\furka\source\repos\C_Sharp\Harjoitus_6\Harjoitus_6\obj\Debug\net6.0-windows\ref\Harjoitus_6.dll
