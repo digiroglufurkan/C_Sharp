@@ -1,0 +1,17 @@
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\bin\Debug\net6.0-windows\harjoitus_15_.exe
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\bin\Debug\net6.0-windows\harjoitus_15_.deps.json
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\bin\Debug\net6.0-windows\harjoitus_15_.runtimeconfig.json
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\bin\Debug\net6.0-windows\harjoitus_15_.dll
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\bin\Debug\net6.0-windows\harjoitus_15_.pdb
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.Form1.resources
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.AssemblyInfo.cs
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.dll
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\refint\harjoitus_15_.dll
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.pdb
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\harjoitus_15_.genruntimeconfig.cache
+C:\Users\furka\source\repos\C_Sharp\harjoitus_15_\harjoitus_15_\obj\Debug\net6.0-windows\ref\harjoitus_15_.dll
